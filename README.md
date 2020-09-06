@@ -3,4 +3,3 @@ Pong is a 2-player, 2-Dimensional table tennis game developed in the 1970's. The
 
 This project was built on the Basys2 FPGA board using the onboard buttons as up and down control for player 1 and 2 (4 button for control), while Switch0 is used to initiate the start of the game for each round. Players scores are printed in the upper half of each players respective side.
 
-Code is written by Sean Kerr and Russell Merrick Version 1.0 - September 4th 2020
